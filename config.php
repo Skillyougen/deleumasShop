@@ -6,10 +6,10 @@
 // Modifiez les 4 constantes ci-dessous
 // ============================================
 
-define('DB_HOST', 'sql306.infinityfree.com');         // ← Adresse serveur MySQL
-define('DB_NAME', 'if0_41942813_deleumasshop_db');   // ← Nom de la base de données
-define('DB_USER', 'if0_41942813');              // ← Utilisateur MySQL
-define('DB_PASS', 'deleumas2026');                  // ← Mot de passe MySQL
+define('DB_HOST', 'db52861.databaseasp.net');         // ← Adresse serveur MySQL
+define('DB_NAME', 'db52861');   // ← Nom de la base de données
+define('DB_USER', 'db52861');              // ← Utilisateur MySQL
+define('DB_PASS', 'f!5H6mT#s?3J');                  // ← Mot de passe MySQL
 define('DB_CHARSET', 'utf8mb4');
 
 function getDB() {

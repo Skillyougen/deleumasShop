@@ -1,8 +1,4 @@
--- ============================================
--- DELEUMASSHOP — Base de Données
--- ============================================
-CREATE DATABASE IF NOT EXISTS if0_41942813_deleumasshop_db CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE if0_41942813_deleumasshop_db;
+ 
 
 CREATE TABLE IF NOT EXISTS administrateurs (
     id INT AUTO_INCREMENT PRIMARY KEY,
